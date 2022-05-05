@@ -1,0 +1,5 @@
+serwer=localhost
+instancja=SQL2017DEV
+baza=BazaCzysciec99
+uzytkownik=sa
+haslo=akwa356
